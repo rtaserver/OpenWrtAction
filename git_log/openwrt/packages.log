@@ -2,17 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8d48b87b9|Josef Schlehofer|Mon Dec 29 09:37:02 2025 +0100|luajit2: add riscv64 support
-cded17988|Javier Marcet|Sun Nov 2 15:40:22 2025 +0100|luajit2: update to v2.1-20251030
-858f80cd8|Javier Marcet|Wed Oct 29 19:06:25 2025 +0100|luajit2: update to v2.1-20250826
-fac6812ee|Josef Schlehofer|Sat Dec 6 14:26:07 2025 +0100|python-sqlalchemy: update to version 2.0.35
-45a7df42d|Josef Schlehofer|Wed Dec 3 10:26:56 2025 +0100|python-pyopenssl: update to version 24.2.1
-739d60f49|Josef Schlehofer|Wed Dec 3 10:25:01 2025 +0100|python-pynacl: update to version 1.6.0
-c3dad539f|Josef Schlehofer|Wed Dec 3 10:23:19 2025 +0100|python-jinja2: update to version 3.1.4
-636eb9049|Josef Schlehofer|Wed Dec 3 10:19:54 2025 +0100|python-babel: update to version 2.15.0
-b7033c0b2|Josef Schlehofer|Wed Dec 3 10:16:35 2025 +0100|pillow: update to version 10.2.0
-db97af78f|Josef Schlehofer|Wed Dec 3 10:14:33 2025 +0100|python-werkzeug: update to version 2.3.8
-a4c022690|Josef Schlehofer|Wed Dec 3 10:12:53 2025 +0100|Flask: update to version 2.3.3
-a09779d22|Josef Schlehofer|Wed Dec 3 09:31:03 2025 +0100|python-markdown: update to version 3.7
-61d3d57a4|Josef Schlehofer|Tue Dec 2 13:58:37 2025 +0100|treewide: wheel names are in lowercase (PEP 625)
+248c40bf4|Daniel F. Dickinson|Sun Dec 14 11:17:35 2025 -0500|zabbix: transfer maintenance to myself
+4e7e967ff|Daniel F. Dickinson|Mon Dec 15 02:49:33 2025 -0500|zabbix: update to 7.0.21 (lts)
+1352f3f00|Josef Schlehofer|Tue Dec 30 01:15:11 2025 +0100|uspot: move and format EXTRA_DEPENDS
 </details>

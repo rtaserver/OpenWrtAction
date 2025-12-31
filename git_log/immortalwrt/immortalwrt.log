@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-10809c547e|Tianling Shen|Tue Dec 30 09:45:04 2025 +0800|uboot-rockchip: fix rk3588 soc includes
-9230f1f1ca|Tianling Shen|Fri Nov 14 20:04:53 2025 +0800|uboot-rockchip: enable good-state big cluster 2 for rk3582
-0cecbab7f0|FUKAUMI Naoki|Mon Aug 25 15:32:10 2025 +0000|uboot-rockchip: add support for Rockchip RK3582
-ba367aa242|Tianling Shen|Mon Dec 29 16:11:54 2025 +0800|rockchip: refresh kernel patches
+f2f2802c71|Tianling Shen|Tue Dec 30 12:00:12 2025 +0800|rockchip: add missing boot flow for Radxa ROCK 5C
 </details>
