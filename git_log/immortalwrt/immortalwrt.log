@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f2f2802c71|Tianling Shen|Tue Dec 30 12:00:12 2025 +0800|rockchip: add missing boot flow for Radxa ROCK 5C
+9d5928ce8b|Tianling Shen|Wed Dec 31 10:56:21 2025 +0800|Merge Official Source
+dcf11c832a|Eric Fahlgren|Mon Nov 3 12:34:37 2025 -0800|mediatek: filogic: fix supported_devices list for gl-mt2500
 </details>

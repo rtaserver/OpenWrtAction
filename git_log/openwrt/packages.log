@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-248c40bf4|Daniel F. Dickinson|Sun Dec 14 11:17:35 2025 -0500|zabbix: transfer maintenance to myself
-4e7e967ff|Daniel F. Dickinson|Mon Dec 15 02:49:33 2025 -0500|zabbix: update to 7.0.21 (lts)
-1352f3f00|Josef Schlehofer|Tue Dec 30 01:15:11 2025 +0100|uspot: move and format EXTRA_DEPENDS
+760e1234f|Alexandru Ardelean|Sun Nov 9 18:03:08 2025 +0200|pymysql: bump to version 1.1.2
+5dbedc7ae|Josef Schlehofer|Wed Dec 31 13:09:26 2025 +0100|django: add PYPI_SOURCE_NAME
 </details>

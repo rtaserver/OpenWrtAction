@@ -1,6 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-dcf11c832a|Eric Fahlgren|Mon Nov 3 12:34:37 2025 -0800|mediatek: filogic: fix supported_devices list for gl-mt2500
-</details>
