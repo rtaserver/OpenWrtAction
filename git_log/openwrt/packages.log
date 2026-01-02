@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-760e1234f|Alexandru Ardelean|Sun Nov 9 18:03:08 2025 +0200|pymysql: bump to version 1.1.2
-5dbedc7ae|Josef Schlehofer|Wed Dec 31 13:09:26 2025 +0100|django: add PYPI_SOURCE_NAME
+06a7f2ec8|Josef Schlehofer|Wed Dec 31 14:46:36 2025 +0100|uledd: drop this package as it is no longer available
 </details>
