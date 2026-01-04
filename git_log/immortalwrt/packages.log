@@ -1,0 +1,16 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+e4047b59a|Tianling Shen|Sat Jan 3 11:51:46 2026 +0800|Revert "uledd: drop this package as it is no longer available"
+ad6b90459|Tianling Shen|Sat Jan 3 11:50:29 2026 +0800|Merge Official Source
+06a7f2ec8|Josef Schlehofer|Wed Dec 31 14:46:36 2025 +0100|uledd: drop this package as it is no longer available
+760e1234f|Alexandru Ardelean|Sun Nov 9 18:03:08 2025 +0200|pymysql: bump to version 1.1.2
+5dbedc7ae|Josef Schlehofer|Wed Dec 31 13:09:26 2025 +0100|django: add PYPI_SOURCE_NAME
+248c40bf4|Daniel F. Dickinson|Sun Dec 14 11:17:35 2025 -0500|zabbix: transfer maintenance to myself
+4e7e967ff|Daniel F. Dickinson|Mon Dec 15 02:49:33 2025 -0500|zabbix: update to 7.0.21 (lts)
+1352f3f00|Josef Schlehofer|Tue Dec 30 01:15:11 2025 +0100|uspot: move and format EXTRA_DEPENDS
+8d48b87b9|Josef Schlehofer|Mon Dec 29 09:37:02 2025 +0100|luajit2: add riscv64 support
+cded17988|Javier Marcet|Sun Nov 2 15:40:22 2025 +0100|luajit2: update to v2.1-20251030
+858f80cd8|Javier Marcet|Wed Oct 29 19:06:25 2025 +0100|luajit2: update to v2.1-20250826
+</details>
