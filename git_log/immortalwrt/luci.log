@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-60b51d02a5|Tianling Shen|Sat Jan 3 11:54:20 2026 +0800|Merge Official Source
-3ac2e08a2e|Paul Donald|Wed Dec 31 15:28:27 2025 +0100|luci-mod-system: extend dropbear listen options
-f71b9385c8|Liangbin Lian|Thu Dec 25 12:58:32 2025 +0800|luci.mk: fix the rpcd reload command
-226faea3be|Paul Donald|Wed Dec 24 17:34:16 2025 +0100|luci-static: fix race condition when probing features
-3972ee2273|Hannu Nyman|Sat Dec 20 17:03:13 2025 +0200|treewide: backport i18n translations and sync
+7b496d8e43|Tianling Shen|Sun Jan 4 20:06:54 2026 +0800|Merge Official Source
+8770139d62|Paul Donald|Sat Jan 3 17:51:59 2026 +0100|luci-theme-openwrt: fix CSS error
+2fb6db3ff7|Hannu Nyman|Sat Jan 3 13:34:09 2026 +0200|treewide: backport translations
 </details>

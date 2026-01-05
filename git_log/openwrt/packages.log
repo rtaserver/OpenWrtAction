@@ -1,0 +1,11 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+a9dce8f50|TeleostNaCl Dai|Wed Dec 24 22:59:36 2025 +0800|vim: fix depends configuration
+d4855897c|George Sapkin|Wed Dec 17 16:13:01 2025 +0200|vim: add SPDX license identifier
+6b11c46a5|George Sapkin|Sat Dec 13 18:19:44 2025 +0200|vim: fix config and runtime
+e0d310807|George Sapkin|Mon Dec 8 15:17:13 2025 +0200|vim: disable wayland to fix missing dependency
+fe45e7ccd|George Sapkin|Mon Nov 17 11:15:55 2025 +0200|vim: bump to 9.1.1918
+7549064c5|George Sapkin|Mon Nov 17 10:37:59 2025 +0200|vim: add actual xxd version
+</details>
