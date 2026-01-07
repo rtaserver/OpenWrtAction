@@ -1,0 +1,6 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+7f1426692f|Tianling Shen|Mon Jan 5 12:16:50 2026 +0800|uboot-rockchip: fix enter download mode (MaskROM) for RK356x/RK3588
+</details>

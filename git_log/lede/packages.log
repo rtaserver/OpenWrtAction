@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-835d8c340|Stan Grishin|Sun Jan 4 19:21:54 2026 +0000|adblock-fast: update to 1.2.0-26
+6e47354e|Internet1235|Tue Jan 6 21:00:06 2026 +0800|rrdtool1: fix build with GCC 14
 </details>
